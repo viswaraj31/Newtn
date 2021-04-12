@@ -1,5 +1,5 @@
 class String {
-    constuctor(bodya,bodyb,xpoint,ypoint){
+    constructor(bodya,bodyb,xpoint,ypoint){
         var options = {
             bodyA:bodya,
             bodyB:bodyb,
